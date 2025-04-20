@@ -3,7 +3,7 @@ SYMBOLS = ["🐯", "💰", "🍀", "⭐", "🔔", "🔥"]
 
 # Tabela de pagamento (multiplicador da aposta)
 PAYOUTS = {
-    "🐯": 50,   # Jackpot se aparecer três tigres
+    "🐯": 50,
     "💰": 20,
     "🍀": 10,
     "⭐": 5,
