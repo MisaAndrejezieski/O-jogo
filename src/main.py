@@ -1,4 +1,4 @@
-from src.game import spin, check_win  # Importação ajustada
+from src import spin, check_win  # Importação ajustada
 from src.betting import Player
 
 # Criando jogador
